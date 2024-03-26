@@ -1,3 +1,26 @@
+#-----------------------------------------------------------------------------
+#  MasterDeoran Battle Action
+#-----------------------------------------------------------------------------
+#  For: Desktop Application
+#  Version: 0.9
+#  Date: 03-2024
+#  file: main.py
+#-----------------------------------------------------------------------------
+#  Description:
+#  This is a simple music player application that allows users to load and play music files.
+#  It uses the Pygame library for audio playback and the Tkinter library for the user interface.
+#-----------------------------------------------------------------------------
+#  TODO:
+#  - Add Pause functionality
+#  - add a header to the table
+#  - add help option
+#  - add user settings for the application
+#-----------------------------------------------------------------------------
+#  Version 0.9
+#  - First released executable version
+#-----------------------------------------------------------------------------
+
+
 # Import necessary libraries and modules from imports.py
 from imports import *
 

@@ -5,7 +5,7 @@ Ein einfacher Desktop-Musik-Player, gebaut mit Python, Tkinter und Pygame, der e
 ## Funktionen
 
 - Musikdateien laden und anzeigen
-- Musikwiedergabe steuern (Play, Pause, Stop)
+- Musikwiedergabe steuern (Play, Stop)
 - Lautstärkeregelung
 - Playlist speichern und laden
 - Unterstützt gängige Audioformate wie MP3 und WAV

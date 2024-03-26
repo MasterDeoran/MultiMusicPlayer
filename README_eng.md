@@ -4,7 +4,7 @@
 
 MultiMusicPlayer is a Python application that allows you to play multiple audio files simultaneously.
 
-![Overview](./Overview.png)
+![Overview](Overview.png)
 
 ## Features
 

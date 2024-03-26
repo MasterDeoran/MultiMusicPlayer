@@ -2,7 +2,7 @@
 
 Ein einfacher Desktop-Musik-Player, gebaut mit Python, Tkinter und Pygame, der es ermöglicht, Musikdateien zu laden, abzuspielen und Playlisten zu verwalten.
 
-![Overview](./Overview.png)
+![Overview](Overview.png)
 
 ## Funktionen
 
